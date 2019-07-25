@@ -19,7 +19,7 @@
             }
         });
        
-  ![image](https://github.com/hxw-haha/city_business_picker_lib.git/raw/master/仿京东城市选择城市的弹出框.jpg)
+  ![image](https://github.com/hxw-haha/city_business_picker_lib/raw/master/仿京东城市选择城市的弹出框.jpg)
         
 2 仿淘宝城市选择公司类型的弹出框
 
@@ -39,4 +39,4 @@
             }
         });
         
- ![image](https://github.com/hxw-haha/city_business_picker_lib.git/raw/master/仿淘宝城市选择公司类型的弹出框.jpg)       
+ ![image](https://github.com/hxw-haha/city_business_picker_lib/raw/master/仿淘宝城市选择公司类型的弹出框.jpg)       
