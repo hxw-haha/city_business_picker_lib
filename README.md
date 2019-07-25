@@ -18,7 +18,8 @@
                 mResultTv.setText("取消了。");
             }
         });
-        
+       
+  ![image](https://github.com/hxw-haha/city_business_picker_lib.git/raw/master/仿京东城市选择城市的弹出框.jpg)
         
 2 仿淘宝城市选择公司类型的弹出框
 
@@ -37,3 +38,5 @@
                 mResultTv.setText("取消了。");
             }
         });
+        
+ ![image](https://github.com/hxw-haha/city_business_picker_lib.git/raw/master/仿淘宝城市选择公司类型的弹出框.jpg)       
